@@ -1,4 +1,5 @@
 # AI Controlled BlackJack Overview
+Applying Reinforcement learning (RL) to Blackjack
 
 ## Make a Deck
 1. 52 cards in a deck

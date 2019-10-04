@@ -2,7 +2,7 @@
 
 ### Logistical Stuff
 - [x] Create GitHub repo
-- [x] Add Contributors
+- [x] Add contributors
 
 ### Familiarity
 - [ ] `NumPy` random (uniform)

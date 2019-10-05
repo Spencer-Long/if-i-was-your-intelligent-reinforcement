@@ -6,9 +6,9 @@
 
 ### Familiarity
 - [ ] `NumPy` random (uniform)
-- [ ] Make a deck
-- [ ] Shuffle it
-- [ ] Display top card
+- [x] Make a deck
+- [x] Shuffle it
+- [x] Display top card
 
 ### The Environment Basics
 - [ ] Make a board with 1 deck (to be scaled later)

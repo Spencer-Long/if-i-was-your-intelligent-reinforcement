@@ -1,9 +1,10 @@
 ## TODO List
 
 ### Logistical Stuff
-- [ ] Create GitHub repo
+- [x] Create GitHub repo
+- [x] Add contributors
 
-## Familiarity
+### Familiarity
 - [ ] `NumPy` random (uniform)
 - [ ] Make a deck
 - [ ] Shuffle it
@@ -14,5 +15,3 @@
 - [ ] Deals a hand to the player (don't worry about dealer yet)
 - [ ] Hit (draw top card from deck)
 - [ ] Stand (stop)
-
-### The 
